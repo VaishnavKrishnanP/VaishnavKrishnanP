@@ -1,5 +1,5 @@
 ### Hi, I am Vaishnav Krishnan P
-- 👀 I’m interested in AI and Machine Learning, Networking, and VFX
+- 👀 I’m interested in AI and Machine Learning, Networking, and VFX.
 - 🌱 I’m currently pursuing B.Tech in Computer Science and Engineering.
 
 <!---
